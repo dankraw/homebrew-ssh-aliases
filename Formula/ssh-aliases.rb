@@ -2,8 +2,8 @@ class SshAliases < Formula
   desc "A tool for ~/.ssh/config generation"
   homepage "https://github.com/dankraw/ssh-aliases"
   url "https://github.com/dankraw/ssh-aliases.git",
-      :tag => "v0.3.2",
-    :revision => "313365b35cd3f03331b1f791920ae8546c9fe616"
+      :tag => "v0.4.0",
+    :revision => "93684e40c3ed1bff319b21439344956561b58105"
 
   head "https://github.com/dankraw/ssh-aliases.git"
 
